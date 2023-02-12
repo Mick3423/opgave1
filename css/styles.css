@@ -34,3 +34,42 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #06b8ff ;
+    height: 50px;
+}
+
+.navigation a{
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+.main{
+    padding: 1rem;
+    min-height: calc(100vh - 50px - 300px);
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    background-color: #06b8ff;
+
+}
+
+.footer a{
+    color: #ffff;
+    display: block;
+    text-decoration: none;
+    margin: 5px 0;
+}

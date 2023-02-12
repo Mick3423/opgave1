@@ -32,7 +32,11 @@
 <?php include "includes/navigation.php"?>
 
 
-<div> </div>
+<div class="main">
+    <h1> hej med dig</h1>
+
+<div></div>
+</div>
 
 
 <?php include "includes/footer.php"?>
