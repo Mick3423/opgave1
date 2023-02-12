@@ -29,9 +29,13 @@
 
 <!-- Her skal sidens indhold ligge -->
 
+<?php include "includes/navigation.php"?>
 
 
 <div> </div>
+
+
+<?php include "includes/footer.php"?>
 
 </body>
 </html>
