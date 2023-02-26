@@ -35,7 +35,19 @@
 <div class="main">
     <h1> hej med dig</h1>
 
-<div></div>
+
+    <div class="boks boks1"></div>
+
+    <div class="boks boks2"></div>
+
+    <div class="boks boks3"></div>
+
+    <div class="boks boks4"></div>
+
+    <div class="boks boks5"></div>
+
+    <div class="boks boks6"></div>
+
 </div>
 
 
